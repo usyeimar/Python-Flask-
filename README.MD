@@ -1,1 +1,2 @@
-#App Funcional en Flask
+App Funcional en Flask
+![imagen](./img/cover.png)
